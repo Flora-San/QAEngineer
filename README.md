@@ -36,7 +36,7 @@ you can run testcases from terminal using pytest
 pytest test_checkout.py
 ```
 ----
-### Exercise Automate a test case for a website using Selenium WebDriver 
+### Exercise Test Plan for Automated Tests Cases
 **Test Case:** Login and buy a product E2E on [SauceDemo](https://www.saucedemo.com/)
 
 **Test Steps:**
