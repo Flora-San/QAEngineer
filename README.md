@@ -1,5 +1,5 @@
 
-### Demo Sauce Web Automation Using Python, Selenium & Pytest
+### SauceDemo Web Automation Using Python, Selenium & Pytest
 For this  solution approach I'm using **Python, Selenium & Pytest** 
 check in your local if you already have these configurations, otherwise you can install
 with the following configurations, the described below is for linux.
